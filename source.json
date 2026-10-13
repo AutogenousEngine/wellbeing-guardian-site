@@ -1,0 +1,15 @@
+{
+  "name": "Wellbeing Guardian launch page",
+  "kind": "static-launcher",
+  "source": "system/apps/wellbeing_guardian/pages/",
+  "app_origin": "https://wellbeing-guardian-3abbhkb8.db1cfc7e90db163e9f4bae7d7c53431a.af304afaf29ec869851e27de7d8fd045.us1.personal-imbue.com/",
+  "included": [
+    "index.html",
+    "styles.css",
+    "icon.svg",
+    "source.json",
+    ".nojekyll"
+  ],
+  "data_collection": "none",
+  "backend_included": false
+}
